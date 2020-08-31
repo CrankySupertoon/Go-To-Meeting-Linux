@@ -24,7 +24,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Fetch nativefier
-        uses: Jaid/action-npm-install@v1.2.4
+        run: npm install nativefier
 
       # Runs a set of commands using the runners shell
       - name: Compile app
