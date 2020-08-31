@@ -1,0 +1,6 @@
+{
+  "name": "Go-To-Meeting-Linux",
+  "dependencies": {
+    "nativefier": "^10.1.0"
+  }
+}
